@@ -1,0 +1,19 @@
+●「Streamlitの基礎」には次の3つのレッスンがあります。
+(streamlit_basic1) 
+  Webフレームワークとは
+  Streamlitとは
+  Streamlitの実行手順
+  いろいろな形式で文字列を表示
+  画像の表示
+  マークダウンの表示
+(streamlit__basic2)
+  ウィジットの紹介
+  インタラクティブにウィジットを使う
+  レイアウトを整える
+(streamlit__basic3)
+  Pandasで表を作成
+  Streamlitで表を表示
+  グラフの表示
+  地図の表示
+
+●「Open In Colab」ボタンを押すと「Google Colaboratory」で開いて実行することができます。
