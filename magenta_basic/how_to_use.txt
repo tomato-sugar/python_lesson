@@ -1,0 +1,17 @@
+●「magentaの基礎」には次の2つのレッスンがあります。
+
+(magenta_basic1.ipynb) 
+  Ⅰ Magentaの概要
+    (1) Magentaとは
+    (2) Magentaに用意されているAI作曲モデル
+  Ⅱ 自動作曲の実行手順
+    (1) ライブラリのインストール
+    (2) 基本となる音を与える
+    (3) Melody RNN で単音のシンプルなメロディーの作曲
+    
+(magenta_basic2)
+  Ⅰ Polyphony RNN でバッハ風合唱曲の作曲
+  Ⅱ Drums RNN でドラム演奏パートの作曲
+  Ⅲ Peformance RNN で高度なピアノ演奏の作曲
+
+●「Open In Colab」ボタンを押すと「Google Colaboratory」で開いて実行することができます。
